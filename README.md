@@ -58,5 +58,4 @@ running all the tests with one command has a tendency to break down the ganache 
 Each time you run the tests it is advised to rebuild your build/ folder, as this may lead to bugs if not done. You 
 can do this by running the command `rm -rf build/`.
 
-## Thanks and support
-[<img src="https://s3.amazonaws.com/chronologic.network/ChronoLogic_logo.svg" width="128px">](https://github.com/chronologic)
+
